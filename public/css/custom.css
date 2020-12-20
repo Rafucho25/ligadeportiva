@@ -1,0 +1,59 @@
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h3.history{
+  color: cornflowerblue;
+  font-family: "Lucida Handwriting";
+  font-size: 145%;
+}
+
+h3.about{
+  color: crimson;
+  font-family: "Lucida Handwriting";
+  font-size: 145%;
+}
+  
+.history {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 115%;
+}
+
+.about {
+  font-family: "Comic Sans MS";
+  font-size: 115%;
+}
+
+.title-agronomica {
+  font-family: "Times New Roman", Times, serif;
+  color: #29ec0a;
+}
+
+.title-ciencias {
+  font-family: "Times New Roman", Times, serif;
+  color: #02c2fc;
+}
+
+.title-economica {
+  font-family: "Times New Roman", Times, serif;
+  color: #9e4c25;
+}
+
+.title-educacion {
+  font-family: "Times New Roman", Times, serif;
+  color: #95725b;
+}
+
+.title-ingenieria {
+  font-family: "Times New Roman", Times, serif;
+  color: #1e3581;
+}
+
+.title-salud {
+  font-family: "Times New Roman", Times, serif;
+  color: #ffde00;
+}
